@@ -1,0 +1,10 @@
+1-bütün claslar main metodla baslıyor
+2-print ve println farkı
+3-escape sequences
+4-primitive ve String veriables
+5-concatenations
+6-casting
+7-aritmetic operators
+8-scanner class
+
+

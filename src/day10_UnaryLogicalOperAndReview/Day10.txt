@@ -1,0 +1,9 @@
+Day10
+1-Aritmetic Operators (+-*/%)
+2-Short Operators(+=,-=.*=,/=.&=)
+3-Relational Operators(<,<=.>,>=,==,!=)
+4-Unary Operators(+,-,++,--)
+5-Logical Operators(&,&&,|,||,^)
+&&, & and operatorü(both), her iki ifade de dogru olmalı
+||,| or operatoru(either), ikisinden birinin yapması yeterli.
+^ X or, yada analamında. her iki tarafta aynı degilse true oluyor.
