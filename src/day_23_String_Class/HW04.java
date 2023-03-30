@@ -19,6 +19,10 @@ public class HW04 {
         System.out.println("kelime 2:");
         String kelime2= scan.nextLine();
         System.out.println(kelime2.indexOf(kelime1.charAt(0)));
+
+
+
+
     }
 
 
