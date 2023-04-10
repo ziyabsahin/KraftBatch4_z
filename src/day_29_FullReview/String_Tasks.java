@@ -143,9 +143,8 @@ public class String_Tasks {
 
     public static String isimSoyisim(String str) {
         int a = str.indexOf(" ");
-        String isim = str.substring(0, a);
         String soyisim = str.substring(a + 1);
-        String result = "İsminiz " + isim + " soy isminiz " + soyisim + " dır.";
+        String result = " soy isminiz " + soyisim + " dır.";
         return result;
     }
 
@@ -166,15 +165,18 @@ public class String_Tasks {
     //olarak return eden methot yazınız.
     public static String yinelenenKarakterleriYaz(String str) {
         String result = "";
-        for (int i = 0; i < str.length(); i++) {
+        while (str.length()>0) {
 
-            if (str.indexOf(str.charAt(i)) != str.lastIndexOf(str.charAt(i))) {
-                result += str.charAt(i);
+            if (str.indexOf(str.charAt(0)) != str.lastIndexOf(str.charAt(0))) {
+                result += str.charAt(0);
             }
+            str=str.replace(str.substring(0,1),"");
 
         }
         return result;
     }
+
+
 
     //15-Kullanıcıdan bir kelime alın ve bu kelimenin içerindeki ünlü ve ünsüz harfleri
     //ayrı ayrı ekrana yazan programı yazınız.
