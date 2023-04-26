@@ -5,7 +5,10 @@ public class Employee {
     private char gender;
     private int age;
     private double salary;
-    public Employee(String name, char gender, int age, double sallary){
+
+
+
+        public Employee(String name, char gender, int age, double sallary){
         setName(name);
         setAge(age);
         this.gender=gender;
