@@ -1,4 +1,4 @@
-package day_42_Static_And_Interitance;
+package day_42_Static_And_Inheritance;
 
 public class C02_ {
     public static void main(String[] args) {
@@ -9,6 +9,7 @@ public class C02_ {
         //static variable, static blok, constracterı görünce blok, constracter içerisine girer(sıralama bu sekilde)
         //ikinci obje olusurken de staticlere giriş yapmaz
         //bir clasın tüm static metodlarını import edip, clas ismi oladan metodu cagırabiliriz
+
 
 
 

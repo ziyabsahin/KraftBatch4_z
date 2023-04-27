@@ -1,4 +1,4 @@
-package day_42_Static_And_Interitance;
+package day_42_Static_And_Inheritance;
 
 public class C01_Static_Methods {
     public static void methods(){

@@ -1,6 +1,4 @@
-package day_41_Static_And_Interitance;
-
-import java.util.Random;
+package day_41_Static_And_Inheritance;
 
 public class C01_Static {
     //1-instance veriable static olarak tanımlanırsa tüm clastan oluşan nesnelerde bu veriable aynı olur

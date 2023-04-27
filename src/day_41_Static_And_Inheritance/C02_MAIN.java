@@ -1,4 +1,4 @@
-package day_41_Static_And_Interitance;
+package day_41_Static_And_Inheritance;
 
 import day_39_Constructors_Overloading.Car;
 
