@@ -1,0 +1,31 @@
+ Collection da farklı objeler ve kapasite sorunu olmadan toplayabiliyoruz
+  collection 3 tane extent interface clası var, kendiside interface
+      1-list-listeler
+      2-Queue- sıra
+      3-Set-Küme
+      burda yer almayan ama map sınıfıda var
+      arraylistte gördüğümüz metodların tamamını burda kullanacagız
+
+      ----List interface bir sınıftır
+      collection sınıfının child classıdır
+      aynı tip verileri kabul eder
+      yenilenen verileri kabul eder
+      verileri depolama sıralamasına göre listeler
+                         1-Arraylist, list interfacenin alt sınıfıdır
+      primitive data type kabul etmez, objeleri non primitive kabul eder
+      kabul etmesi için wrapper clasları kullanabiliriz
+                         2-Linked list, list ve deque interface sınıfına impelemant edilmiştir
+      zincir seklinde veriler depolanır
+      her bir node(düğüm) bir sonrakini işaret eder
+      her bir datada önceki ve sonraki indeksin referansı bulunur(double linked list)
+      sadece sonraki indeksin referansıda olabilir single linked list
+      arraylistten performansı daha hızlıdır
+      liste ve sırayı uygulamak için kullanılır
+      arrayliste göre daha fazla yer kaplar
+                         3-Vector,(thread-safe) list interfacene implement eder, stack alt sınıfı var
+      senkronizasyon için kullanılır
+      aynı anda işlem yapmayı saglar (thread)
+      bir çok metodu var
+      vectorun alt sınıfı Stack(yığın) vectorun sub classıdır, vectore implement eder
+      son giren ilk cıkar, bu önemli
+      push edince uste ekler, pop ederken en son eklediğini çıkartırlar
