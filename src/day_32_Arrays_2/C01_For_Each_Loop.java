@@ -4,7 +4,7 @@ public class C01_For_Each_Loop {
 
 
     public static void main(String[] args) {
-       // String arr[]={"Merhaba","nasılsın","harun","celal"};
+       // C03_String arr[]={"Merhaba","nasılsın","harun","celal"};
         String arr[]=new String[4];
         arr[0]="merhaba";
         arr[1]="nasılsın";

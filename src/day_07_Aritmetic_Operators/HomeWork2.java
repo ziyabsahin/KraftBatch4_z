@@ -8,7 +8,7 @@ public class HomeWork2 {
       String y=scan.nextLine();
       String b=scan.nextLine();
       System.out.println(y+b);
-      //String ifadeler yazmak için scan.nextLİne() kullanıyoruz
+      //C03_String ifadeler yazmak için scan.nextLİne() kullanıyoruz
 
     }
 }

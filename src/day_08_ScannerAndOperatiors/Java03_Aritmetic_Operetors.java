@@ -7,7 +7,7 @@ public class Java03_Aritmetic_Operetors {
         System.out.println(10+"20"+90+10);
         System.out.println(""+10+10+"20"+90+10);
         System.out.println(10+"20"+(90+10));
-        //String ifade kendisinden sonra gelenleri de String yapar buna concatenation deniyor
+        //C03_String ifade kendisinden sonra gelenleri de C03_String yapar buna concatenation deniyor
         System.out.println(100/3);
         System.out.println(11-2);
         System.out.println(11*2);

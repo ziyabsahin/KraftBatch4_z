@@ -6,7 +6,7 @@ public class Scanner_Example {
     public static void main(String[] args) {
        /* Scanner scan=new Scanner(System.in);
         System.out.println("lütfen bir kelime giriniz");
-        String str=scan.nextLine();
+        C03_String str=scan.nextLine();
         System.out.println("girdiğiniz kelime"+str+"dır");*/
 
         Scanner scan=new Scanner(System.in);

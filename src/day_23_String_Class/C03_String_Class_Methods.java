@@ -6,7 +6,7 @@ public class C03_String_Class_Methods {
         String programmingLanguage="java";
         System.out.println("programmingLanguage.length() = " + programmingLanguage.length());
 
-        programmingLanguage="python";   //String immutable, javayı işaret ediyordu. String poolda yeni bir obje oluşturdu
+        programmingLanguage="python";   //C03_String immutable, javayı işaret ediyordu. C03_String poolda yeni bir obje oluşturdu
 
         System.out.println("programmingLanguage.length() = " + programmingLanguage.length());
 

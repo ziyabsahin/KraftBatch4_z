@@ -4,7 +4,7 @@ public class Java01_NonPrimitive_Data_Types {
     public static void main(String[] args){
        String fullName="Ali Öztürk";
        int num=1;
-        //class isimleri büyük harfle basladıgı için String büyük harfle baslar
+        //class isimleri büyük harfle basladıgı için C03_String büyük harfle baslar
         //primitive data types data tasıyor.
         //nonprimitive data types hem veri tasıyor hem metodları var
         //name convention, degişken isimleri küçük harfle baslar, sonraki kelimler bitişik ve büyük harfle

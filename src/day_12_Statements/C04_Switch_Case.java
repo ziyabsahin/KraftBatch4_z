@@ -3,7 +3,7 @@ package day_12_Statements;
 public class C04_Switch_Case {
     public static void main(String[] args){
 
-        //byte, short, int, String ve char tipindeki degerlerde kullanırız
+        //byte, short, int, C03_String ve char tipindeki degerlerde kullanırız
         int num=1;
         switch (num){
             case 1:

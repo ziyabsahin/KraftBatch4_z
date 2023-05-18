@@ -10,7 +10,7 @@ public class Aritmetic_Operators {
         System.out.println(x*y);
         System.out.println(x/y);
         System.out.println(x%y);
-        //String ifade olsa bile işlem önceligi gecerli mod almada carpma ve bölme gibi
+        //C03_String ifade olsa bile işlem önceligi gecerli mod almada carpma ve bölme gibi
         //bölme işlemi double ama int deger atadıgımız için tam sayı
         //int/int sonuc int oluyor
 

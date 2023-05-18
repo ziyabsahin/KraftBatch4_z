@@ -2,7 +2,7 @@ package day_15_Week3_Rewiev;
 
 public class C04_Switch_Case_Loops {
     public static void main(String[] args) {
-        //byte.short,int,String,char degişkenleri için kullanabiliriz
+        //byte.short,int,C03_String,char degişkenleri için kullanabiliriz
 
         int x = 5;
         switch (x) {

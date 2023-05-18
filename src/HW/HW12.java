@@ -24,7 +24,7 @@ public class HW12 {
         //your unique sorted elements: [1,2]
         //
         //
-        //Enter 5 String: Kraft Kraft Tech Tech Kraft
+        //Enter 5 C03_String: Kraft Kraft Tech Tech Kraft
         //your unique sorted elements: [Kraft, Tech]
     }
 }
