@@ -6,7 +6,7 @@ public class Concatinetion {
         String b="dünya";
         String c=a+b;
         System.out.println(c);
-        // String ifadeye kadar toplama.String ifadeyi gördükten sonra
+        // C03_String ifadeye kadar toplama.C03_String ifadeyi gördükten sonra
         //diger ifadeelrde string devam eder
         System.out.println(2+5+c+2+5);
         System.out.println(2+5+c+(2+5));

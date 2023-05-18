@@ -41,6 +41,6 @@ public class C04_Main_Of_Month {
         System.out.println(resault);
         System.out.println("-----------------------------------");
 
-       // String nameOfMonth=
+       // C03_String nameOfMonth=
     }
 }

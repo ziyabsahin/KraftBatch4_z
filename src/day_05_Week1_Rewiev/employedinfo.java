@@ -33,16 +33,16 @@ public class employedinfo {
 
 
 
-  /*1. employeeName (String)
+  /*1. employeeName (C03_String)
                 2. age (int)
                 3. gender (char)
-                4. company (String)
-                5. jobTitle (String)
+                4. company (C03_String)
+                5. jobTitle (C03_String)
                 6. yearsOfExperience (double)
                 7. salary (int)
                 8. isFullTime (boolean)
                 9. isMarried (boolean)
-                10. employeeId (String)
-                11. SSN (String)*/
+                10. employeeId (C03_String)
+                11. SSN (C03_String)*/
 
 }

@@ -6,9 +6,9 @@ public class C06_Method_Overloading5 {
 
     }
     /*
-     * 3 parametreli bir method yazin int ve String ve boolean tipinde 3 parametre alsin
-     * Boolean true ise int ve String değeri concat yapsın.
-     * false ise başka bir methodu çağırsın ve String değeri int kadar yazdırsın.*/
+     * 3 parametreli bir method yazin int ve C03_String ve boolean tipinde 3 parametre alsin
+     * Boolean true ise int ve C03_String değeri concat yapsın.
+     * false ise başka bir methodu çağırsın ve C03_String değeri int kadar yazdırsın.*/
 
     public static void concat(int num, String str, boolean bl){
         if(bl){

@@ -19,7 +19,7 @@ public class C04_Set_Practice {
         siir.remove(' ');
         System.out.println(siir.size());
         System.out.println(siir);
-//        String[] arr=str.split("");
+//        C03_String[] arr=str.split("");
 //        siir2.addAll(Arrays.asList(arr));
 
     }

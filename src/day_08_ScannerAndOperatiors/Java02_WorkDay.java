@@ -3,7 +3,7 @@ package day_08_ScannerAndOperatiors;
 public class Java02_WorkDay {
     public static void main(String[] args){
        /* Create a class named BirthDay and create the following variable
-                name, birthDay(int), birthMonth(String), birthYear(int)
+                name, birthDay(int), birthMonth(C03_String), birthYear(int)
 
         use concatenation to display the birthday of the person*/
         String name="John";

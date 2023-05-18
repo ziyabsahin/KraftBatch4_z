@@ -9,7 +9,7 @@ public class Java05_Scanner {
         String name=scan.nextLine();
         System.out.println("name ="+name);
 
-        //String için scan.nextLine()
+        //C03_String için scan.nextLine()
         //byte için scan.nextByte()
         //short için scan.nextShort()
         //int için scan.nextInt()

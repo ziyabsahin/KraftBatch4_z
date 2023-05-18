@@ -11,19 +11,19 @@ public class C02_Wrapper_Methods {
         System.out.println(x+5);
 
 
-        //parseInt() parametre olarak String alıyor ama int döndürüyor
+        //parseInt() parametre olarak C03_String alıyor ama int döndürüyor
         //valueOf ise Integer döndürüyor
         int z=Integer.parseInt(s);
 
 
         //typeValue() int olarak döndürüyor
 
-//        String str="bugün hava 50 derece";
+//        C03_String str="bugün hava 50 derece";
 //        System.out.println(str);
-//        String[] strArr=str.split(" ");
+//        C03_String[] strArr=str.split(" ");
 //        int derece=Integer.parseInt(strArr[2]);
 //        int result=derece+10;
-//        String str2=String.valueOf(result);
+//        C03_String str2=C03_String.valueOf(result);
 //        strArr[2]=str2;
 //        System.out.println(Arrays.toString(strArr).replace(",","").replace("[","").replace("]",""));
 
@@ -42,7 +42,7 @@ public class C02_Wrapper_Methods {
                 replace("[","").replace("]",""));
 
 
-//        String str3="merhaba 234 nasıl 341 okul094";
+//        C03_String str3="merhaba 234 nasıl 341 okul094";
 //        char[] atr3Arr=str3.toCharArray();
 //        int sum=0;
 //        for (int i = 0; i < atr3Arr.length; i++) {
